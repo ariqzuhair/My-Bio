@@ -1,15 +1,14 @@
-👋 Hello, my name is Ariq
+****Hi there!****
 
-🎓 Soon to be graduating from Diploma in Computer Science Information Technology (June 2022)
+I'm Ariq, a newbie developer based in Sarawak, Malaysia.
 
-🏡 Living in Kuching, Sarawak.
+I design and build anything that I feel and want to try.
 
-📚 I have build some projects with a main role as a FRONT-END developer during my studies. I would like 
-      to create my own projects to increase my portfolio and gaining more experience in the process.
+If i see any ideas or anything that pops in my mind maybe i will try develop it my way.
 
-💻 I hope in the future that I would become a successful FRONT-END developer with the title of SENIOR 
-      WEB DEVELOPER and could land a job in a big company to pursue their goals and to chase my dreams.
+I've got some projects that I pinned, and more soon to come.
 
-⛺ During my free time, I like to destress myself with games and doing some workout activity to keep my 
-      body in shape.
+Maybe i'll start bulding my repo more often or not?
 
+**Fun Facts:**
+I am lazy person, but sometimes my laziness can bring a lot of things to the table hehe.
